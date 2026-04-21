@@ -4,6 +4,7 @@
   </Folder>
   <Folder Name="/InfraStructure/">
     <Project Path="../Model/Model.csproj" />
+    <Project Path="../Repositor/Repository.csproj" Id="f408d677-3b0c-45e1-9029-c787db0e765b" />
   </Folder>
   <Project Path="ClassesMetodos.csproj" />
 </Solution>
